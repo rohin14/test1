@@ -1,0 +1,10 @@
+streamlit==1.32.0
+langchain==0.1.5
+langchain-core==0.1.13
+langchain-community==0.0.16
+langchain-groq==0.1.1
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4
+chromadb==0.4.22
+pymupdf==1.23.8
+python-dotenv==1.0.0
